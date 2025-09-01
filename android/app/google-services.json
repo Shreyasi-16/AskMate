@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "691885124484",
+    "project_id": "pollingsystem-fbc37",
+    "storage_bucket": "pollingsystem-fbc37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691885124484:android:cd277b74bcd54057460bd1",
+        "android_client_info": {
+          "package_name": "com.example.pollingsys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691885124484-dhida8d3akalbvhedlvan1k437o9pd90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRaAPjWTxSFpdABJE-t0jBugOf_kjAHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691885124484-dhida8d3akalbvhedlvan1k437o9pd90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691885124484-b2tsaj7c5mv20r7inapltu3odrke85qk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pollingsys"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691885124484:android:2ef8cec938d6fd0a460bd1",
+        "android_client_info": {
+          "package_name": "com.example.poolingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691885124484-dhida8d3akalbvhedlvan1k437o9pd90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNRaAPjWTxSFpdABJE-t0jBugOf_kjAHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691885124484-dhida8d3akalbvhedlvan1k437o9pd90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691885124484-b2tsaj7c5mv20r7inapltu3odrke85qk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pollingsys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
